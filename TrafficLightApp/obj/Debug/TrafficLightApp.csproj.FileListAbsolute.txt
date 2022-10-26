@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\TrafficLightApp\TrafficLightApp\bin\Debug\TrafficLightApp.exe.config
+C:\Users\Lenovo\source\repos\TrafficLightApp\TrafficLightApp\bin\Debug\TrafficLightApp.exe
+C:\Users\Lenovo\source\repos\TrafficLightApp\TrafficLightApp\bin\Debug\TrafficLightApp.pdb
+C:\Users\Lenovo\source\repos\TrafficLightApp\TrafficLightApp\obj\Debug\TrafficLightApp.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\TrafficLightApp\TrafficLightApp\obj\Debug\TrafficLightApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\source\repos\TrafficLightApp\TrafficLightApp\obj\Debug\TrafficLightApp.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\TrafficLightApp\TrafficLightApp\obj\Debug\TrafficLightApp.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\TrafficLightApp\TrafficLightApp\obj\Debug\TrafficLightApp.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\TrafficLightApp\TrafficLightApp\obj\Debug\TrafficLightApp.exe
+C:\Users\Lenovo\source\repos\TrafficLightApp\TrafficLightApp\obj\Debug\TrafficLightApp.pdb
+C:\Users\Lenovo\source\repos\TrafficLightApp\TrafficLightApp\obj\Debug\TrafficLightApp.TrafficLight.resources
